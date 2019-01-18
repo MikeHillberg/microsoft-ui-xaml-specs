@@ -1,7 +1,7 @@
 > See comments in Markdown for how to use this spec template
 
-<!-- The purpose of this API spec is to describe a new API or
-set of related APIs that make up a new feature in WinUI. -->
+<!-- The purpose of this spec is to describe a new feature and
+its APIs that make up a new feature in WinUI. -->
 
 <!-- There are two audiences for the spec. The first are people
 that want to evaluate and give feedback on the API, as part of
@@ -30,24 +30,30 @@ area, just explanation enough to understand this new API, rather than telling
 the reader "go read 100 pages of background information posted at ...". -->
 
 
-# Overview
-<!-- Use this section to provide a brief description of the API(s). 
-This is intended to be copyable to docs.microsoft.com relatively as-is,
-as a "How to" page. -->
-
-<!-- For an example, see the introduction to the PasswordBox control 
+# Description
+<!-- Use this section to provide a brief description of the feature.
+For an example, see the introduction to the PasswordBox control 
 (http://docs.microsoft.com/windows/uwp/design/controls-and-patterns/password-box). -->
 
 
 # Examples
 <!-- Use this section to explain the features of the API, showing
-example code with each description. The general format is a 
-  feature explanation, an example, 
-  feature explanation, an example, 
+example code with each description. The general format is: 
+  feature explanation,
+  example code
+  feature explanation,
+  example code
   etc.-->
 
 <!-- As an example of this section, see the Examples section for the PasswordBox control 
 (https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/password-box#examples). -->
+
+
+# Remarks
+<!-- Explanation and guidance that doesn't fit into the Examples
+section.  For example, see the Remarks for the MediaPlayerElement 
+(https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Controls.MediaPlayerElement#remarks). -->
+
 
 # API Notes
 <!-- Give a one or two line description of each API (type
@@ -55,12 +61,8 @@ and member), or at least the ones that aren't obvious
 from their name.  These descriptions are what show up
 in IntelliSense. -->
 
-<!-- Also use this section to give any detailed explanations that
-are not covered in the Overview and Examples sections. -->
-
 
 # API Details
-
 <!-- The exact API, in MIDL3 format (https://docs.microsoft.com/en-us/uwp/midl-3/) -->
 
 # Appendix
