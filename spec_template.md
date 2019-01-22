@@ -52,7 +52,7 @@ example code with each description. The general format is:
 # Remarks
 <!-- Explanation and guidance that doesn't fit into the Examples
 section.  For example, see the Remarks for the MediaPlayerElement 
-(https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Controls.MediaPlayerElement#remarks). -->
+(https://docs.microsoft.com/uwp/api/Windows.UI.Xaml.Controls.MediaPlayerElement#remarks). -->
 
 
 # API Notes
